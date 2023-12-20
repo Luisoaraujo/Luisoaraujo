@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Luis</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 🌱 Atualmente estou estudando **Python, JavaScript e Java**
 
